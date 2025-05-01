@@ -13,7 +13,7 @@ This project implements Linear Regression written from scratch. It primarily foc
 ```
 📁 house-price-prediction-using-linear-regression-from-scratch
 ├── 📄 linear_regression.py         # Custom LinearRegression1 class
-├── 📄 housePricePrediction.ipynb  # Demo: load data, predict, plot
+├── 📄 demo_house_price_prediction.ipynb  # Demo: load data, predict, plot
 ├── 📄 real_estate_listings.csv    # Dataset (Rooms, Floor, Height, Area, Price)
 ├── 📄 requirements.txt            # Dependencies: numpy, pandas, matplotlib
 ├── 📄 .gitignore                  # Ignored files

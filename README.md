@@ -76,4 +76,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 🧾 Credits
 - **Author**: Imran Mammadov
 - **University**: ADA University
-- **Dataset**: Real estate listings taken from [bina.az](https://bina.az) 
+- **Dataset**: Real estate listings taken from [bina.az](https://bina.az)

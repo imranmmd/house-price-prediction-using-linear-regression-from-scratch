@@ -1,13 +1,13 @@
-# House Price Prediction Using Linear Regression (From Scratch) 🏠
+# House Price Prediction Using Linear Regression (From Scratch)
 
 This project implements Linear Regression written from scratch. It primarily focuses on house price prediction in Azerbaijan to test the model's functionality.
 
-## Key Features 📌
-- Real-world dataset from the Azerbaijani housing market 🇦🇿
-- Linear Regression model built from scratch ✍
-- Feature normalization and early stopping ⚙
-- Cost function visualization 📉
-- R² score for model evaluation 📊
+## Key Features
+- Real-world dataset from the Azerbaijani housing market
+- Linear Regression model built from scratch
+- Feature normalization and early stopping
+- Cost function visualization
+- R² score for model evaluation
 
 ## Project Directory Structure
 ```
@@ -42,7 +42,7 @@ LinearRegression1(epochs=10000, alpha=0.01, normalize=True, plot_cost=False, tol
 - `score(X, Y)` – Return R² score
 - `costFunction(X, Y, w)` – Internal cost function
 
-## 📈 Example Usage
+## Example Usage
 ```python
 from linear_regression import LinearRegression1
 import pandas as pd
@@ -65,15 +65,15 @@ print("R² score:", model.score(X, y))
 # Output: np.float64(0.3912458236401598)
 ```
 
-## ⚙ Installation
+## Installation
 ```bash
 pip install -r requirements.txt
 ```
 
-## 🪪 License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 🧾 Credits
+## Credits
 - **Author**: Imran Mammadov
 - **University**: ADA University
 - **Dataset**: Real estate listings taken from [bina.az](https://bina.az)
